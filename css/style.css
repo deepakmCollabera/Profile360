@@ -367,6 +367,11 @@ body {
   top: calc((var(--current-width) * 2) / 100);
   display: none;
 }
+.certificate_info .closePopup{
+  position: absolute;
+  right: 5px;
+  border: none;
+}
 .certificate_info::before {
   content: "";
   width: 0;
@@ -659,6 +664,15 @@ body {
   }
   .vpWrap .play_icon{
     width: calc((var(--current-width) * 18) / 100);
+  }
+  .certificate_info{
+    width: calc((var(--current-width) * 50) / 100);
+    top: calc((var(--current-width) * 5.4) / 100);
+    left: calc((var(--current-width) * -25) / 100);
+    padding: calc((var(--current-width) * 1.8) / 100);
+  }
+  .certificate_info p{
+    text-align: left !important;
   }
 }
 /* media query for mobile devices */
