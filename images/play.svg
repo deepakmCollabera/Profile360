@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="91px" height="90px" viewBox="0 0 91 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Group 14</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M46.5,3 C69.4198171,3 88,21.3563253 88,44 C88,66.6436747 69.4198171,85 46.5,85 C23.5801829,85 5,66.6436747 5,44 C5,21.3563253 23.5801829,3 46.5,3 Z M39.4146341,27 L39.4146341,61 L61.6829268,44 L39.4146341,27 Z" id="path-1"></path>
+        <filter x="-8.4%" y="-6.1%" width="116.9%" height="117.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.132648601 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Web-Redesign-2020" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.884393601">
+        <g id="Candidate-Profile_standalone" transform="translate(-1133.000000, -214.000000)">
+            <g id="Group-14" transform="translate(1132.000000, 213.000000)">
+                <g id="Combined-Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

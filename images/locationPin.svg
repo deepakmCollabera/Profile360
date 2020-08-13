@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="15px" viewBox="0 0 10 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>ic_location_on</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Web-Redesign-2020" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Candidate-Profile_standalone" transform="translate(-262.000000, -186.000000)" fill="#94989B">
+            <g id="ic_location_on" transform="translate(262.000000, 186.000000)">
+                <g id="Mask-2" transform="translate(-0.000000, -0.000000)">
+                    <path d="M5.01111111,-1.03828057e-12 C2.24068254,-1.03828057e-12 -1.60760294e-13,2.29160714 -1.60760294e-13,5.125 C-1.60760294e-13,8.96875 5.01111111,14.6428571 5.01111111,14.6428571 C5.01111111,14.6428571 10.0222222,8.96875 10.0222222,5.125 C10.0222222,2.29160714 7.78153968,-1.03828057e-12 5.01111111,-1.03828057e-12 L5.01111111,-1.03828057e-12 Z M5.01111111,6.95535714 C4.02320635,6.95535714 3.22142857,6.13535714 3.22142857,5.125 C3.22142857,4.11464286 4.02320635,3.29464286 5.01111111,3.29464286 C5.99901587,3.29464286 6.80079365,4.11464286 6.80079365,5.125 C6.80079365,6.13535714 5.99901587,6.95535714 5.01111111,6.95535714 L5.01111111,6.95535714 Z" id="Mask"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
