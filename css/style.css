@@ -537,7 +537,7 @@ body {
   }
 
   .mainWrapper_inner{
-    padding-top: 100px !important;
+    padding-top: calc((var(--current-width) * 24) / 100) !important;
   }
   .scroll_nav_wrap #sp_main_tabs .sp_tab_head a{
     font-size: calc((var(--current-width) * 2.8) / 100);
