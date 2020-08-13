@@ -564,7 +564,7 @@ body {
     border: none;
   }
   .quicktour img{
-    height: calc((var(--current-width) * 5) / 100) !important;
+    height: calc((var(--current-width) * 5.4) / 100) !important;
     margin: 0;
   }
   .scroll_nav_wrap #sp_main_tabs .sp_tab_head{
