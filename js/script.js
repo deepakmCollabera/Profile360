@@ -60,4 +60,16 @@ function onScroll(event){
           currLink.parent(".sp_tab_head").removeClass("active");
       }
   });
+  if($(window).scrollTop() + $(window).height() == $(document).height()) {
+    if($(".requestDemoFooter").hasClass("requestDemoFlag")){
+      $(".requestDemo").hide();
+    }
+  }else{
+    $(".requestDemo").show();
+  }
 }
+
+$(".closeRequestFooter").on("click", function(){
+  $(".requestDemoFooter").removeClass("requestDemoFlag");
+  $(".requestDemo").show();
+})
